@@ -1,3 +1,4 @@
+![logo](https://github.com/AkashSingh0021/AkashSingh0021/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">💻 Problem Solving with DSA | Learning AWS Solution Architect | Web Dev Enthusiast</h3>
 
